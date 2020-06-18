@@ -1,0 +1,3 @@
+rootProject.name='New App'
+include ':app'
+include ':fibo'
